@@ -1,16 +1,26 @@
-# Sales Dashboard (Excel + Power BI)
+#  Sales Dashboard (Excel + Power BI)
 
-This project analyzes sales data and visualizes insights using Excel and Power BI.
+This project analyzes sales data and presents insights using Excel and Power BI dashboards.
 
-## Features
-- Monthly Sales Trend
-- Sales by Category
-- Sales Distribution
-- Total Sales & Profit
+##  Features
+- Monthly Sales Trend Analysis
+- Sales by Category Visualization
+- Sales Distribution (Pie Chart)
+- Total Sales & Profit KPIs
 
-## Tools Used
-- Excel
+##  Tools Used
+- Microsoft Excel
 - Power BI
 
-## Screenshot
+##  Dashboard Preview
 ![Dashboard](powerbi-dashboard.png)
+
+##  Insights
+- Technology category has highest sales
+- Office Supplies has lowest contribution
+- Sales trend fluctuates across months
+
+##  Files Included
+- sales-dashboard.pbix
+- Excel dataset
+- Dashboard screenshot
