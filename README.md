@@ -3,10 +3,13 @@
 This project analyzes sales data and presents insights using Excel and Power BI dashboards.
 
 ##  Features
-- Monthly Sales Trend Analysis
-- Sales by Category Visualization
-- Sales Distribution (Pie Chart)
 - Total Sales & Profit KPIs
+- Orders Count
+- AOV (Average Order Value)
+- Monthly Sales Trend
+- Sales by Category
+- Sales Distribution
+- Category Filter (Slicer)
 
 ##  Tools Used
 - Microsoft Excel
@@ -16,10 +19,10 @@ This project analyzes sales data and presents insights using Excel and Power BI 
 ![Dashboard](powerbi-dashboard.png)
 
 ##  Insights
-- Technology category has highest sales
-- Office Supplies has lowest contribution
-- Sales trend fluctuates across months
-
+- Technology category shows higher sales performance
+- Sales trend varies across months
+- Dashboard helps in quick decision making
+  
 ##  Files Included
 - sales-dashboard.pbix
 - Excel dataset
